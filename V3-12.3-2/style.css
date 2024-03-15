@@ -1,0 +1,16 @@
+.naslov {
+}
+
+.paragraf {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  text-align: justify;
+  background-color: #ffa8b6;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  border: 3px solid #ff1d58;
+  box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.75);
+  margin: 20px;
+}

@@ -1,0 +1,53 @@
+/*p {
+  color: royalblue;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.veliki-tekst {
+  color: chocolate;
+  font-size: 21 px;
+  background-color: cadetblue;
+}
+
+.podebljan-tekst {
+  font-weight: 900;
+}
+
+#treciTekst {
+  background-color: black;
+  color: white;
+}
+*/
+/*
+1. inline
+2. id
+3. klasa
+4. sam element
+5. *
+*/
+
+/*
+.red-text {
+  color: red;
+}
+
+div.red-text {
+  font-weight: 900;
+}
+*/
+
+p,
+div {
+  color: yellow;
+  background: black;
+  font-weight: 700;
+}
+
+ol li {
+  color: darkgreen;
+}
+
+li:hover {
+  color: orange;
+}
